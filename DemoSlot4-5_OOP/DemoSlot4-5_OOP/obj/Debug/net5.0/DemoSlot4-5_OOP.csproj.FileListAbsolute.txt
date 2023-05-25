@@ -1,0 +1,35 @@
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.exe
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.deps.json
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.dll
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\ref\DemoSlot4-5_OOP.dll
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.pdb
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.dll
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\ref\DemoSlot4-5_OOP.dll
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.pdb
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.genruntimeconfig.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\ref\DemoSlot4-5_OOP.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.exe
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.deps.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\ref\DemoSlot4-5_OOP.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\DemoSlot4-5_OOP.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\ClassLibrary.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\bin\Debug\net5.0\ClassLibrary.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.csproj.CopyComplete
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\DemoSlot4-5_OOP\obj\Debug\net5.0\DemoSlot4-5_OOP.genruntimeconfig.cache

@@ -1,0 +1,32 @@
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.exe
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.deps.json
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.dll
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\ref\FactoryMethodPattern.dll
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.pdb
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.dll
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\ref\FactoryMethodPattern.dll
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.pdb
+C:\Users\HP\source\repos\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.genruntimeconfig.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.exe
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.deps.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\ref\FactoryMethodPattern.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\bin\Debug\net5.0\FactoryMethodPattern.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\ref\FactoryMethodPattern.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot7_DesignPattern\DemoSlot7_DesignPattern\FactoryMethodPattern\obj\Debug\net5.0\FactoryMethodPattern.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\PRN211\HelloWorldApp\bin\Debug\net5.0\HelloWorldApp.exe
+D:\PRN211\HelloWorldApp\bin\Debug\net5.0\HelloWorldApp.deps.json
+D:\PRN211\HelloWorldApp\bin\Debug\net5.0\HelloWorldApp.runtimeconfig.json
+D:\PRN211\HelloWorldApp\bin\Debug\net5.0\HelloWorldApp.runtimeconfig.dev.json
+D:\PRN211\HelloWorldApp\bin\Debug\net5.0\HelloWorldApp.dll
+D:\PRN211\HelloWorldApp\bin\Debug\net5.0\ref\HelloWorldApp.dll
+D:\PRN211\HelloWorldApp\bin\Debug\net5.0\HelloWorldApp.pdb
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\HelloWorldApp.csproj.AssemblyReference.cache
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\HelloWorldApp.AssemblyInfoInputs.cache
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\HelloWorldApp.AssemblyInfo.cs
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\HelloWorldApp.dll
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\ref\HelloWorldApp.dll
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\HelloWorldApp.pdb
+D:\PRN211\HelloWorldApp\obj\Debug\net5.0\HelloWorldApp.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\PRN211\Demo3Week\bin\Debug\net5.0\Demo3Week.exe
+D:\PRN211\Demo3Week\bin\Debug\net5.0\Demo3Week.deps.json
+D:\PRN211\Demo3Week\bin\Debug\net5.0\Demo3Week.runtimeconfig.json
+D:\PRN211\Demo3Week\bin\Debug\net5.0\Demo3Week.runtimeconfig.dev.json
+D:\PRN211\Demo3Week\bin\Debug\net5.0\Demo3Week.dll
+D:\PRN211\Demo3Week\bin\Debug\net5.0\Demo3Week.pdb
+D:\PRN211\Demo3Week\obj\Debug\net5.0\Demo3Week.csproj.AssemblyReference.cache
+D:\PRN211\Demo3Week\obj\Debug\net5.0\Demo3Week.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Demo3Week\obj\Debug\net5.0\Demo3Week.AssemblyInfoInputs.cache
+D:\PRN211\Demo3Week\obj\Debug\net5.0\Demo3Week.AssemblyInfo.cs
+D:\PRN211\Demo3Week\obj\Debug\net5.0\Demo3Week.csproj.CoreCompileInputs.cache
+D:\PRN211\Demo3Week\obj\Debug\net5.0\Demo3Week.dll
+D:\PRN211\Demo3Week\obj\Debug\net5.0\refint\Demo3Week.dll
+D:\PRN211\Demo3Week\obj\Debug\net5.0\Demo3Week.pdb
+D:\PRN211\Demo3Week\obj\Debug\net5.0\Demo3Week.genruntimeconfig.cache
+D:\PRN211\Demo3Week\obj\Debug\net5.0\ref\Demo3Week.dll

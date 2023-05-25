@@ -1,0 +1,48 @@
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.exe
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.deps.json
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.dll
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\ref\BillManagement.dll
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.pdb
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.dll
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\ref\BillManagement.dll
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.pdb
+C:\Users\HP\source\repos\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.genruntimeconfig.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.exe
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.deps.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\ref\BillManagement.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\ref\BillManagement.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.exe
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.deps.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.runtimeconfig.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.runtimeconfig.dev.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\bin\Debug\net5.0\BillManagement.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.AssemblyInfo.cs
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\refint\BillManagement.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\BillManagement.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\BillManagement\obj\Debug\net5.0\ref\BillManagement.dll

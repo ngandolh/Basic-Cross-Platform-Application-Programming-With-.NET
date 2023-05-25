@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BillManagement.Customer">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAAAAAAAAUAAAAAAAAAAAgAABAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BillManagement.VietnameseCustomer">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAQAAAAAAAAAAAAAAAAAACAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>VietnameseCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BillManagement.ForeignerCustomer">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAIAEBAAAAAA=</HashCode>
+      <FileName>ForeignerCustomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

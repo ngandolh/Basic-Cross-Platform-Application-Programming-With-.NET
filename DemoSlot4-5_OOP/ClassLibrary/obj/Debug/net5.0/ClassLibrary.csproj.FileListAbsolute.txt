@@ -1,0 +1,11 @@
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot4-5_OOP\DemoSlot4-5_OOP\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb

@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\bin\Debug\net5.0\DemoSlot3.exe
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\bin\Debug\net5.0\DemoSlot3.deps.json
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\bin\Debug\net5.0\DemoSlot3.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\bin\Debug\net5.0\DemoSlot3.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\bin\Debug\net5.0\DemoSlot3.dll
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\bin\Debug\net5.0\ref\DemoSlot3.dll
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\bin\Debug\net5.0\DemoSlot3.pdb
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\DemoSlot3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\DemoSlot3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\DemoSlot3.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\DemoSlot3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\DemoSlot3.dll
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\ref\DemoSlot3.dll
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\DemoSlot3.pdb
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\DemoSlot3.genruntimeconfig.cache
+C:\Users\HP\source\repos\DemoSlot3\DemoSlot3\obj\Debug\net5.0\DemoSlot3.csproj.AssemblyReference.cache
