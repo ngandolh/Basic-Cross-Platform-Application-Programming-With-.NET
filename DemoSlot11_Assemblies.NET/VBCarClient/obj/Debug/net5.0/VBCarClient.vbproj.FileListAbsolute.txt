@@ -1,0 +1,37 @@
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.exe
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.deps.json
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\ref\VBCarClient.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.pdb
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\CarLibrary.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\CarLibrary.pdb
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.AssemblyInfo.vb
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.vbproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.vbproj.CopyComplete
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\ref\VBCarClient.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.pdb
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.exe
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.deps.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.runtimeconfig.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.runtimeconfig.dev.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\VBCarClient.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\CarLibrary.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\bin\Debug\net5.0\CarLibrary.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.vbproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.AssemblyInfo.vb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.vbproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.vbproj.CopyComplete
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\refint\VBCarClient.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\VBCarClient.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\VBCarClient\obj\Debug\net5.0\ref\VBCarClient.dll

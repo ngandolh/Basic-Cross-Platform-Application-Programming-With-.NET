@@ -1,0 +1,38 @@
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.exe
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.deps.json
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\ref\CarClient.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.pdb
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarLibrary.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarLibrary.pdb
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.csproj.CopyComplete
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\ref\CarClient.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.pdb
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.exe
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.deps.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.runtimeconfig.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.runtimeconfig.dev.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarClient.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarLibrary.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\bin\Debug\net5.0\CarLibrary.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.AssemblyInfo.cs
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.csproj.CopyComplete
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\refint\CarClient.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\CarClient.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\CarClient\obj\Debug\net5.0\ref\CarClient.dll

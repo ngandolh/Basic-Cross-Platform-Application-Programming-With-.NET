@@ -1,0 +1,30 @@
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.deps.json
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.json
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.dev.json
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\refint\BusinessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\ref\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\refint\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\BusinessObjects.genruntimeconfig.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EntityFrameworkCoreDBFirst\BusinessObjects\obj\Debug\net5.0\ref\BusinessObjects.dll

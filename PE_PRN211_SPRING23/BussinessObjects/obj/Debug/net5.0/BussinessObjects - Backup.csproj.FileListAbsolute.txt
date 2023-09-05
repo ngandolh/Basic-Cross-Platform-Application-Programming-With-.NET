@@ -1,0 +1,15 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\bin\Debug\net5.0\BussinessObjects - Backup.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\bin\Debug\net5.0\BussinessObjects - Backup.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\bin\Debug\net5.0\BussinessObjects - Backup.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\bin\Debug\net5.0\BussinessObjects - Backup.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\bin\Debug\net5.0\ref\BussinessObjects - Backup.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\bin\Debug\net5.0\BussinessObjects - Backup.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\BussinessObjects - Backup.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\BussinessObjects - Backup.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\BussinessObjects - Backup.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\BussinessObjects - Backup.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\BussinessObjects - Backup.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\BussinessObjects - Backup.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\ref\BussinessObjects - Backup.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\BussinessObjects - Backup.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\PE_PRN211_SPRING23\BussinessObjects\obj\Debug\net5.0\BussinessObjects - Backup.genruntimeconfig.cache

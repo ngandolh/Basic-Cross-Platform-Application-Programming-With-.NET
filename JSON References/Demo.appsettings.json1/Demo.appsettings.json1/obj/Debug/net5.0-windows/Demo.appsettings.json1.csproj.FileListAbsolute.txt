@@ -1,0 +1,76 @@
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.exe
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.deps.json
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.runtimeconfig.json
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.dll
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\ref\Demo.appsettings.json1.dll
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.pdb
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.frmDemo.resources
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.AssemblyInfo.cs
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.dll
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\ref\Demo.appsettings.json1.dll
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.pdb
+C:\Users\HP\source\repos\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.genruntimeconfig.cache
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.exe
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\appsettings.json
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.deps.json
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.runtimeconfig.json
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.runtimeconfig.dev.json
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.dll
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\ref\Demo.appsettings.json1.dll
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.pdb
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.AssemblyReference.cache
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.frmDemo.resources
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.GenerateResource.cache
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.AssemblyInfoInputs.cache
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.AssemblyInfo.cs
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.CoreCompileInputs.cache
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.dll
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\ref\Demo.appsettings.json1.dll
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.pdb
+D:\Downloads\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.exe
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\appsettings.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.deps.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.runtimeconfig.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.runtimeconfig.dev.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.frmDemo.resources
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.GenerateResource.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.AssemblyInfo.cs
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\refint\Demo.appsettings.json1.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\Working with JSON file\Demo.appsettings.json1\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\ref\Demo.appsettings.json1.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.exe
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\appsettings.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\bin\Debug\net5.0-windows\Demo.appsettings.json1.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.frmDemo.resources
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.GenerateResource.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\refint\Demo.appsettings.json1.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\Demo.appsettings.json1.genruntimeconfig.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\JSON References\Demo.appsettings.json1\Demo.appsettings.json1\obj\Debug\net5.0-windows\ref\Demo.appsettings.json1.dll

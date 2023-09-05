@@ -1,0 +1,15 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\bin\Debug\net5.0\BusinessObjects.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\bin\Debug\net5.0\BusinessObjects.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\bin\Debug\net5.0\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\ref\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\BusinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\obj\Debug\net5.0\BusinessObjects.genruntimeconfig.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ProductManagementWindowsForms\BusinessObjects\bin\Debug\net5.0\ref\BusinessObjects.dll

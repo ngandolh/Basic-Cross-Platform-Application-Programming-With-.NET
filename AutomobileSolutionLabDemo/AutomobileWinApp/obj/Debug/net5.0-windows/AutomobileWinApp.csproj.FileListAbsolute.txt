@@ -1,0 +1,189 @@
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csprojAssemblyReference.cache
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.dll
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+D:\Demo\FU\Hands-on Labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.dll
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2021 Fall FU\PRN211\PRN211 - Basic Cross-Platform Application Programming With .NET\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.dll
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2022 Spring FU\PRN211_SE1505.SE1511\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.dll
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2022 Summer\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileLibrary.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\refint\AutomobileWinApp.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Hands-on labs\Source Code\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\BusinessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\DataAccessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\Repositories.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\Repositories.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\BusinessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\bin\Debug\net5.0-windows\DataAccessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\refint\AutomobileWinApp.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolution\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\BusinessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\DataAccessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\Repositories.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\Repositories.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\BusinessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\DataAccessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\refint\AutomobileWinApp.dll
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN211\Hands-on labs\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.exe
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\DataAccessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\Repositories.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\Repositories.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\BusinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\bin\Debug\net5.0-windows\DataAccessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarDetails.resources
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmCarManagement.resources
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.csproj.CopyComplete
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\refint\AutomobileWinApp.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.genruntimeconfig.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\ref\AutomobileWinApp.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AutomobileSolutionLabDemo\AutomobileWinApp\obj\Debug\net5.0-windows\AutomobileWinApp.frmLogin.resources

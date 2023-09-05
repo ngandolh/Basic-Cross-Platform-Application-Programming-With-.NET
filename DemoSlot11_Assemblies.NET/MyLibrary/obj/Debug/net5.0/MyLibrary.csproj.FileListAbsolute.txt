@@ -1,0 +1,23 @@
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\bin\Debug\net5.0\MyLibrary.deps.json
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\bin\Debug\net5.0\MyLibrary.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\bin\Debug\net5.0\ref\MyLibrary.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\bin\Debug\net5.0\MyLibrary.pdb
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\ref\MyLibrary.dll
+C:\Users\HP\source\repos\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\bin\Debug\net5.0\MyLibrary.deps.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\bin\Debug\net5.0\MyLibrary.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\bin\Debug\net5.0\MyLibrary.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.AssemblyInfo.cs
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\refint\MyLibrary.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\MyLibrary.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot11_Assemblies.NET\DemoSlot11_Assemblies.NET\MyLibrary\obj\Debug\net5.0\ref\MyLibrary.dll

@@ -1,0 +1,30 @@
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.deps.json
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfo.cs
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CopyComplete
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\refint\DataAccessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\ref\DataAccessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\DataAccessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\bin\Debug\net5.0\BusinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CopyComplete
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\refint\DataAccessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\DataAccessObjects\obj\Debug\net5.0\ref\DataAccessObjects.dll

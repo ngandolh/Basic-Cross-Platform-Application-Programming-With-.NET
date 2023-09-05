@@ -1,0 +1,108 @@
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.exe
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.deps.json
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.runtimeconfig.json
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.runtimeconfig.dev.json
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\BusinessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\DataAccessObjects.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Repositories.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Repositories.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\BusinessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\DataAccessObjects.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.csproj.GenerateResource.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.AssemblyInfo.cs
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.csproj.CopyComplete
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\refint\ProductManagementWF.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.pdb
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.genruntimeconfig.cache
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ref\ProductManagementWF.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Azure.Core.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Azure.Identity.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.frmProductManagement.resources
+E:\THANH VAN\2023 Summer\PRN211\Others\_1\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\appsettings.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.exe
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\appsettings.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\ProductManagementWF.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Azure.Core.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Azure.Identity.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\BusinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\DataAccessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Repositories.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\Repositories.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\BusinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\bin\Debug\net5.0-windows\DataAccessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.frmProductManagement.resources
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.csproj.GenerateResource.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.csproj.CopyComplete
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\refint\ProductManagementWF.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ProductManagementWF.genruntimeconfig.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\ADONETProductManagement\ProductManagementWF\obj\Debug\net5.0-windows\ref\ProductManagementWF.dll

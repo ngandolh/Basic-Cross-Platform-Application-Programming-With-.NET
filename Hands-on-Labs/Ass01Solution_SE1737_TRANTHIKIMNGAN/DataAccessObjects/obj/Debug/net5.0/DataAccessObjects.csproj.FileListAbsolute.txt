@@ -1,0 +1,5 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\DataAccessObjects\obj\Debug\net5.0\DataAccessObjects.csproj.CoreCompileInputs.cache

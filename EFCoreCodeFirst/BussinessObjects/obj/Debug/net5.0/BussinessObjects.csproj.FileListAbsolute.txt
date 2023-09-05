@@ -1,0 +1,15 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\bin\Debug\net5.0\BussinessObjects.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\bin\Debug\net5.0\BussinessObjects.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\bin\Debug\net5.0\BussinessObjects.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\bin\Debug\net5.0\BussinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\bin\Debug\net5.0\ref\BussinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\bin\Debug\net5.0\BussinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\BussinessObjects.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\BussinessObjects.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\BussinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\ref\BussinessObjects.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\BussinessObjects.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\EFCoreCodeFirst\BussinessObjects\obj\Debug\net5.0\BussinessObjects.genruntimeconfig.cache

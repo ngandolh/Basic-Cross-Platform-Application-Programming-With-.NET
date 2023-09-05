@@ -1,0 +1,16 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.exe
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\bin\Debug\net5.0\DelegatesDemo.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\refint\DelegatesDemo.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\DelegatesDemo.genruntimeconfig.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DelegatesDemo\obj\Debug\net5.0\ref\DelegatesDemo.dll

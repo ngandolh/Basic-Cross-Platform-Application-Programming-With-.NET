@@ -1,0 +1,12 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\bin\Debug\net5.0\AutomobileLibrary.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\refint\AutomobileLibrary.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\AutomobileLibrary.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\AutombileSolution_SE161483\AutomobileLibrary\obj\Debug\net5.0\ref\AutomobileLibrary.dll

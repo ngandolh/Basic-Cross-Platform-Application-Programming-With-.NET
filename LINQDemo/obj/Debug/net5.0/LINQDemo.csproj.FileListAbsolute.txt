@@ -1,0 +1,16 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\LINQDemo.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\LINQDemo.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\bin\Debug\net5.0\LINQDemo.exe
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\bin\Debug\net5.0\LINQDemo.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\bin\Debug\net5.0\LINQDemo.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\bin\Debug\net5.0\LINQDemo.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\bin\Debug\net5.0\LINQDemo.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\LINQDemo.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\refint\LINQDemo.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\LINQDemo.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\LINQDemo.genruntimeconfig.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\LINQDemo\obj\Debug\net5.0\ref\LINQDemo.dll

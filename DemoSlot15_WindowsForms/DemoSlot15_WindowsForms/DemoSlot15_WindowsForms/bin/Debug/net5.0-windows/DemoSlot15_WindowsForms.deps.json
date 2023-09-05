@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DemoSlot15_WindowsForms/1.0.0": {
+        "runtime": {
+          "DemoSlot15_WindowsForms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DemoSlot15_WindowsForms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

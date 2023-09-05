@@ -1,0 +1,14 @@
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\bin\Debug\net6.0\CarContracts_StudentName_LIB.deps.json
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\bin\Debug\net6.0\CarContracts_StudentName_LIB.dll
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\bin\Debug\net6.0\CarContracts_StudentName_LIB.pdb
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\CarContracts_StudentName_LIB.csproj.AssemblyReference.cache
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\CarContracts_StudentName_LIB.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\CarContracts_StudentName_LIB.AssemblyInfoInputs.cache
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\CarContracts_StudentName_LIB.AssemblyInfo.cs
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\CarContracts_StudentName_LIB.csproj.CoreCompileInputs.cache
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\CarContracts_StudentName_LIB.dll
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\refint\CarContracts_StudentName_LIB.dll
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\CarContracts_StudentName_LIB.pdb
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\ref\CarContracts_StudentName_LIB.dll
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\bin\Debug\net6.0\CarContracts_StudentName_LIB.runtimeconfig.json
+D:\FPT\C#\PRN211PE_FA22_TrialTest_StudentName\CarContracts_StudentName_LIB\obj\Debug\net6.0\CarContracts_StudentName_LIB.genruntimeconfig.cache

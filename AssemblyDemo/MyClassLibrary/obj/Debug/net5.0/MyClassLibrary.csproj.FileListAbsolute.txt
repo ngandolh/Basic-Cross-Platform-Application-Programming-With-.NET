@@ -1,0 +1,12 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\bin\Debug\net5.0\MyClassLibrary.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\refint\MyClassLibrary.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\MyClassLibrary.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\AssemblyDemo\MyClassLibrary\obj\Debug\net5.0\ref\MyClassLibrary.dll

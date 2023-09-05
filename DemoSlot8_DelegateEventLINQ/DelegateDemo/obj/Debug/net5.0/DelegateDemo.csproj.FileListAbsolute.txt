@@ -1,0 +1,30 @@
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.exe
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.deps.json
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.dll
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\ref\DelegateDemo.dll
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.pdb
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.dll
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\ref\DelegateDemo.dll
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.pdb
+C:\Users\HP\source\repos\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.genruntimeconfig.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.exe
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.deps.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\ref\DelegateDemo.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\bin\Debug\net5.0\DelegateDemo.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\ref\DelegateDemo.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot8_DelegateEventLINQ\DemoSlot8_DelegateEventLINQ\DelegateDemo\obj\Debug\net5.0\DelegateDemo.genruntimeconfig.cache

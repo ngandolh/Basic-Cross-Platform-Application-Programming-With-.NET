@@ -1,0 +1,5 @@
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\BusinessObject\obj\Debug\net5.0\BusinessObjects.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\BusinessObject\obj\Debug\net5.0\BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\BusinessObject\obj\Debug\net5.0\BusinessObjects.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\BusinessObject\obj\Debug\net5.0\BusinessObjects.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\Hands-on-Labs\Ass01Solution_SE1737_TRANTHIKIMNGAN\BusinessObject\obj\Debug\net5.0\BusinessObjects.csproj.CoreCompileInputs.cache

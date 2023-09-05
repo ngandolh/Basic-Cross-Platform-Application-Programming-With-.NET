@@ -1,0 +1,82 @@
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.exe
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.deps.json
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.runtimeconfig.json
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.dll
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\ref\DemoSlot15_WindowsForms.dll
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.pdb
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmTreeViewDemo.resources
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.dll
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\ref\DemoSlot15_WindowsForms.dll
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.pdb
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.genruntimeconfig.cache
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmListViewDemo.resources
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmDataGridViewDemo.resources
+C:\Users\HP\source\repos\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.RichTextBoxDemo.resources
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.exe
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.deps.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.runtimeconfig.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.runtimeconfig.dev.json
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\ref\DemoSlot15_WindowsForms.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.AssemblyReference.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmDataGridViewDemo.resources
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmListViewDemo.resources
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmTreeViewDemo.resources
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.RichTextBoxDemo.resources
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.GenerateResource.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.AssemblyInfoInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.AssemblyInfo.cs
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\ref\DemoSlot15_WindowsForms.dll
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.pdb
+E:\THANH VAN\2022 Summer\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.exe
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.deps.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.runtimeconfig.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.runtimeconfig.dev.json
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.AssemblyReference.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmDataGridViewDemo.resources
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmListViewDemo.resources
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmTreeViewDemo.resources
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.GenerateResource.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.AssemblyInfoInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.AssemblyInfo.cs
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.CoreCompileInputs.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\refint\DemoSlot15_WindowsForms.dll
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.pdb
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.genruntimeconfig.cache
+E:\THANH VAN\2023 Spring 3W\PRN211\Others\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\ref\DemoSlot15_WindowsForms.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.exe
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.deps.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.runtimeconfig.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.runtimeconfig.dev.json
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\bin\Debug\net5.0-windows\DemoSlot15_WindowsForms.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.AssemblyReference.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmDataGridViewDemo.resources
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmListViewDemo.resources
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.frmTreeViewDemo.resources
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.GenerateResource.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.AssemblyInfoInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.AssemblyInfo.cs
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.csproj.CoreCompileInputs.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\refint\DemoSlot15_WindowsForms.dll
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.pdb
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\DemoSlot15_WindowsForms.genruntimeconfig.cache
+D:\PRN211\Basic-Cross-Platform-Application-Programming-With-.NET\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\DemoSlot15_WindowsForms\obj\Debug\net5.0-windows\ref\DemoSlot15_WindowsForms.dll
