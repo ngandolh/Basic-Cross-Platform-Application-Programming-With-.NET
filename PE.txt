@@ -1,0 +1,9 @@
+https://localhost:11490/Home/Index
+
+http://localhost:54175/Products/Index
+
+dotnet ef dbcontext scaffold “Server=LAPTOP-HP6ERQBA\SQLEXPRESS; Database=BTS; Uid=sa; Pwd=12345” Microsoft.EntityFrameworkCore.SqlServer --output-dir ./
+
+
+
+http://localhost:25906/Flower/Index

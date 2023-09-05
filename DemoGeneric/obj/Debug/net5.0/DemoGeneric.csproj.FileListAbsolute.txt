@@ -1,0 +1,16 @@
+D:\PRN211\DemoGeneric\bin\Debug\net5.0\DemoGeneric.exe
+D:\PRN211\DemoGeneric\bin\Debug\net5.0\DemoGeneric.deps.json
+D:\PRN211\DemoGeneric\bin\Debug\net5.0\DemoGeneric.runtimeconfig.json
+D:\PRN211\DemoGeneric\bin\Debug\net5.0\DemoGeneric.runtimeconfig.dev.json
+D:\PRN211\DemoGeneric\bin\Debug\net5.0\DemoGeneric.dll
+D:\PRN211\DemoGeneric\bin\Debug\net5.0\DemoGeneric.pdb
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\DemoGeneric.csproj.AssemblyReference.cache
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\DemoGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\DemoGeneric.AssemblyInfoInputs.cache
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\DemoGeneric.AssemblyInfo.cs
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\DemoGeneric.csproj.CoreCompileInputs.cache
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\DemoGeneric.dll
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\refint\DemoGeneric.dll
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\DemoGeneric.pdb
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\DemoGeneric.genruntimeconfig.cache
+D:\PRN211\DemoGeneric\obj\Debug\net5.0\ref\DemoGeneric.dll

@@ -1,0 +1,16 @@
+D:\PRN211\DemoCollection\bin\Debug\net5.0\DemoCollection.exe
+D:\PRN211\DemoCollection\bin\Debug\net5.0\DemoCollection.deps.json
+D:\PRN211\DemoCollection\bin\Debug\net5.0\DemoCollection.runtimeconfig.json
+D:\PRN211\DemoCollection\bin\Debug\net5.0\DemoCollection.runtimeconfig.dev.json
+D:\PRN211\DemoCollection\bin\Debug\net5.0\DemoCollection.dll
+D:\PRN211\DemoCollection\bin\Debug\net5.0\DemoCollection.pdb
+D:\PRN211\DemoCollection\obj\Debug\net5.0\DemoCollection.csproj.AssemblyReference.cache
+D:\PRN211\DemoCollection\obj\Debug\net5.0\DemoCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRN211\DemoCollection\obj\Debug\net5.0\DemoCollection.AssemblyInfoInputs.cache
+D:\PRN211\DemoCollection\obj\Debug\net5.0\DemoCollection.AssemblyInfo.cs
+D:\PRN211\DemoCollection\obj\Debug\net5.0\DemoCollection.csproj.CoreCompileInputs.cache
+D:\PRN211\DemoCollection\obj\Debug\net5.0\DemoCollection.dll
+D:\PRN211\DemoCollection\obj\Debug\net5.0\refint\DemoCollection.dll
+D:\PRN211\DemoCollection\obj\Debug\net5.0\DemoCollection.pdb
+D:\PRN211\DemoCollection\obj\Debug\net5.0\DemoCollection.genruntimeconfig.cache
+D:\PRN211\DemoCollection\obj\Debug\net5.0\ref\DemoCollection.dll

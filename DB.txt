@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold “Server=LAPTOP-HP6ERQBA\SQLEXPRESS; Database=BTS; Uid=sa; Pwd=12345” Microsoft.EntityFrameworkCore.SqlServer --output-dir ./
